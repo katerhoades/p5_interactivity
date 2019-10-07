@@ -1,21 +1,5 @@
 # **INTRO TO P5 & CODING- VARIABLES & INTERACTIVITY!**
 
-### **++[SJSU Art 74 Spring 2019](https://carriehott.github.io/SJSU-Art74-Sp2019/)++**
-
-[<Back to Tutorials](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials)
-
-#### **Related Pages:**
-* [Interactive Art Lecture](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Interactive_Art)
-* [p5 Drawing Basics Tutorial](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt/)
-* [p5- Complex Shapes and Color](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Color)
-* [p5- Adding Images](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_Images)
-* [p5- Put on GitHub](https://carriehott.github.io/SJSU-Art74-Sp2019/tutorials/Intro_CodeArt_GitHub)
-
-#### **Other Resources:**
-* [p5js.org](https://p5js.org/)
-* [p5js.org Code Reference Library](https://p5js.org/reference)
-* [Coding Train YouTube Channel- p5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
-<br>
 
 #### **On this page:**
 1. [What's a Variable?](#what-is-a-variable)
@@ -203,3 +187,10 @@
 # Create Your Own
 
 ## [Go to the p5 Learn page on Interactivity](https://p5js.org/learn/interactivity.html)
+
+
+#### **Other Resources:**
+* [p5js.org](https://p5js.org/)
+* [p5js.org Code Reference Library](https://p5js.org/reference)
+* [Coding Train YouTube Channel- p5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+<br>
